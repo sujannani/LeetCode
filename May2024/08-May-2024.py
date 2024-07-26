@@ -19,3 +19,5 @@ class Solution:
         for i in score:
             res.append(d[i])
         return res
+
+#506
