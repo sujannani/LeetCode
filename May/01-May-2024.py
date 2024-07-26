@@ -11,4 +11,6 @@ class Solution:
                 res=word[i]+res
         res+=word[i+1:]
         return res
+
+#2000 ques
             
