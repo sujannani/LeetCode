@@ -28,4 +28,5 @@ class Solution:
             t.next=ListNode(i)
             t=t.next
         return r.next
-            
+
+#2487
