@@ -13,7 +13,7 @@ class Solution:
             num //= 1000
         
         return result.strip()
-
+ 
     def numberToWordsHelper(self, num: int) -> str:
         digitString = ["Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"]
         teenString = ["Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"]
